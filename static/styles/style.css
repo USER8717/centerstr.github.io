@@ -1,0 +1,42 @@
+.nav-link {
+  color: antiquewhite;
+}
+
+.text1 {
+  font-size: 32px;
+}
+
+.navbar-nav .nav-link.active {
+  color: rgb(151, 187, 228);
+}
+
+.navbar-brand img {
+  width: 40px;
+}
+
+.navbar-toggler {
+  background-color: rgb(119, 119, 119);
+}
+
+.card a {
+  text-decoration: none;
+  color: black;
+}
+
+.FIO-text {
+  text-align: center;
+  font-size: 20px;
+}
+
+/* .video {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video__media {
+  width: 100%;
+  height: auto;
+  top: 0;
+  position: absolute;
+  left: 0;
+} */
